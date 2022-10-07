@@ -19,6 +19,10 @@ The designs were created to the following widths:
 ### Body Copy
 
 - Font size (paragraph): 15px
+font-family: 'Metal Mania', cursive;
+font-family: 'Nanum Gothic', sans-serif;
+font-family: 'Noto Sans Gothic', sans-serif;
+font-family: 'Vampiro One', cursive;
 
 ### Font
 
