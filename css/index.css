@@ -1,16 +1,15 @@
 
-header, footer{
-    background-image: url("/images/monstro.jpg");
-}
-
 body{
-    background: #860609;
-    padding-top: 10%;
+    background-image: url("../images/monstro.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    
+    padding-top: 14%;
     text-align: center;
 }
 
 .m{
-    
     display: inline-block;
     text-align: center;
     vertical-align: top;
@@ -28,7 +27,7 @@ body{
     border-radius: 10px;
     text-align: center;
     width: 90%;
-    margin-top: 10px;    
+    margin-top: 5px;    
 }
 
 .texto{
@@ -42,4 +41,9 @@ body{
     font-size: 15px;
     padding-top: 15px; 
     text-align: center;
+}
+
+footer{
+    height: fit-content;
+    padding: 10px 10px;
 }
